@@ -4,4 +4,4 @@
 
 def concat(str1: str, str2: str) -> str:
     """Joins two strings together."""
-    return str1 + st2
+    return str1 + str2
